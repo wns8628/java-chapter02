@@ -3,6 +3,13 @@ package paint;
 public class ColorPoint extends Point{
 	private String color;
 
+	public ColorPoint() {}
+	public ColorPoint(int x, int y, String color) {
+//		this.setX(x);
+//		this.setY(y);
+		super(x,y);//이렇게쓰면 훨 이쁨 
+		this.color = color;
+	}
 	public String getColor() {
 		return color;
 	}
