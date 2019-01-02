@@ -10,7 +10,7 @@ public class ColorPoint extends Point{
 	public void setColor(String color) {
 		this.color = color;
 	}
-
+    
 	@Override
 	public void show() {
 		// TODO Auto-generated method stub
