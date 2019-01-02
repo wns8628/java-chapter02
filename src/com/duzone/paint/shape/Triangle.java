@@ -1,4 +1,4 @@
-package paint;
+package com.duzone.paint.shape;
 
 public class Triangle extends Shape {
 	//	private Point[] points = new Point[3]; ?? 이러면복잡하다?? 좋긴한데? 
