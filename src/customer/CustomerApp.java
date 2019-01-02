@@ -10,7 +10,7 @@ public class CustomerApp {
 		
 		//protected는 다른패키지접근x
 //		c.name = "둘리";
-		
+//		
 		//private는 외부접근x 
 		//c.age=10;
 		
